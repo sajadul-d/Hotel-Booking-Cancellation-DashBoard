@@ -2,8 +2,11 @@
 
 #Overview:
 • Hotel Booking Dashboard project in Power BI.
+
 • Visualizes hotel booking data in an interactive and visually appealing manner.
+
 • Provides insights into occupancy rates, guest preferences, and revenue.
+
 • Facilitates informed decision-making for hotel managers.
 
 #Motivation:
