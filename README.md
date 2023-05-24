@@ -1,6 +1,7 @@
 # Hotel-Booking-Cancellation-DashBoard
 
-#Overview:
+# Overview:
+
 • Hotel Booking Dashboard project in Power BI.
 
 • Visualizes hotel booking data in an interactive and visually appealing manner.
@@ -9,7 +10,8 @@
 
 • Facilitates informed decision-making for hotel managers.
 
-#Motivation:
+# Motivation:
+
 • Utilize data analytics and visualization to enhance hotel management processes.
 
 • Optimize occupancy and revenue by identifying trends and patterns.
