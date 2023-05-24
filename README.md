@@ -18,4 +18,3 @@ Enable proactive management and quick adjustments based on real-time information
 [Hotel Booking Cancellation DashBoard.pdf](https://github.com/sajadul-d/Hotel-Booking-Cancellation-DashBoard/files/11557426/Hotel.Booking.Cancellation.DashBoard.pdf)
 
 ![Hotel Booking Cancellation DasBoard](https://github.com/sajadul-d/Hotel-Booking-Cancellation-DashBoard/assets/76832635/fa4dcc73-4f18-4d15-a9af-996cc99400ea)
-[Hotel.Booking.Cancellation.DashBoard.pdf](https://github.com/sajadul-d/Hotel-Booking-Cancellation-DashBoard/files/11557442/Hotel.Booking.Cancellation.DashBoard.pdf)
