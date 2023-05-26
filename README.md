@@ -16,8 +16,6 @@
 
 • Optimize occupancy and revenue by identifying trends and patterns.
 
-• Understand guest preferences through analysis of booking data.
-
 • Track performance metrics such as average daily rate and revenue per available room.
 
 • Improve operational efficiency by streamlining data analysis and reporting.
