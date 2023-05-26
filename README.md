@@ -27,6 +27,7 @@ In addition to the Hotel Booking Cancellation Dashboard in Power BI, I'll be lev
 Stay tuned for updates as I unlock deeper insights into hotel booking cancellations using Python libraries. Connect with me for suggestions and ideas to enhance this project further.
 
 #Let's see the preview of the Hotel Booking Cancellation DashBoard
+
 [Hotel Booking Cancellation DashBoard.pdf](https://github.com/sajadul-d/Hotel-Booking-Cancellation-DashBoard/files/11557426/Hotel.Booking.Cancellation.DashBoard.pdf)
 
 ![Hotel Booking Cancellation DasBoard](https://github.com/sajadul-d/Hotel-Booking-Cancellation-DashBoard/assets/76832635/fa4dcc73-4f18-4d15-a9af-996cc99400ea)
