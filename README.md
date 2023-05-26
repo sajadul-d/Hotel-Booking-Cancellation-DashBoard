@@ -6,7 +6,7 @@
 
 • Visualizes hotel booking data in an interactive and visually appealing manner.
 
-• Provides insights into occupancy rates, guest preferences, and revenue.
+• Provides insights into occupancy rates,and revenue.
 
 • Facilitates informed decision-making for hotel managers.
 
